@@ -1,0 +1,6 @@
+flask
+opencv-python
+torch       # CPU/GPU build; see note below
+torchvision
+yolov5      # optional alternative; see notes
+numpy
